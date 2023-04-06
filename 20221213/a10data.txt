@@ -1,0 +1,8 @@
+NewYork 40.71 74.00
+Tokyo 35.69 -139.75
+Beijing 39.91 -116.39
+London 51.51 0.13
+Canberra -35.31 -149.12
+Delhi 28.61 -77.23
+Pretoria -25.75 -28.19
+Brasilia -15.80 47.86

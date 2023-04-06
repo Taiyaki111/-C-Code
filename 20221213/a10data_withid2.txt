@@ -1,0 +1,8 @@
+ID = 0, Capital = NewYork, Latitude = 40.71, Longtitude = 74.00
+ID = 1, Capital = Tokyo, Latitude = 35.69, Longtitude = -139.75
+ID = 2, Capital = Beijing, Latitude = 39.91, Longtitude = -116.39
+ID = 3, Capital = London, Latitude = 51.51, Longtitude = 0.13
+ID = 4, Capital = Canberra, Latitude = -35.31, Longtitude = -149.12
+ID = 5, Capital = Delhi, Latitude = 28.61, Longtitude = -77.23
+ID = 6, Capital = Pretoria, Latitude = -25.75, Longtitude = -28.19
+ID = 7, Capital = Brasilia, Latitude = -15.80, Longtitude = 47.86
